@@ -5,7 +5,9 @@
 ## Schematic (connections of the components)
 
 <img width="740" height="499" alt="image" src="https://github.com/user-attachments/assets/1e73c4c2-36f6-4510-a0b4-5c1ce27f6c9b" />
+
 ## PCB tracings 
+
 <img width="502" height="508" alt="image" src="https://github.com/user-attachments/assets/4bba5906-61ff-4c52-9a06-9c3501b772a9" />
 <img width="508" height="499" alt="image" src="https://github.com/user-attachments/assets/05ac2aec-6649-4cdf-8ca3-3934eb9f305c" />
 
