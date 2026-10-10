@@ -1,3 +1,26 @@
+# Assembly image (what it will look like inside)
+
+<img width="865" height="492" alt="thumbnail" src="https://github.com/user-attachments/assets/9dd15b03-97c7-4893-9618-0281f208641a" />
+
+## Schematic (connections of the components)
+
+<img width="740" height="499" alt="image" src="https://github.com/user-attachments/assets/1e73c4c2-36f6-4510-a0b4-5c1ce27f6c9b" />
+## PCB tracings 
+<img width="502" height="508" alt="image" src="https://github.com/user-attachments/assets/4bba5906-61ff-4c52-9a06-9c3501b772a9" />
+<img width="508" height="499" alt="image" src="https://github.com/user-attachments/assets/05ac2aec-6649-4cdf-8ca3-3934eb9f305c" />
+
+# What is this rediculous looking thing?? 
+It is a really cheap and simple Weather station! it shows you data of your surrounding area such as temp, humidity, AQI  
+i made it as a challenge to make a weather station that shows data not just on a LCD but on your phone from YOUR surrounding, not some  
+sensor miles away from your surrounding.  
+# Firmware 
+since this uses ESP32, simply flash the firmware onto the board 
+# ussage
+connect it to the Wifi and you should be able to be see the data as a webpage on it's IP.  
+
+
+
+
 # BOM 
 | Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet |
 |---|---:|---|---|---|---|---|---|
